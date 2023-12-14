@@ -15,3 +15,4 @@ C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.DataAc
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.pdb
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.genruntimeconfig.cache
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\ref\HotelProject.DataAccessLayer.dll
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.sourcelink.json

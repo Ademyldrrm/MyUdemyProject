@@ -17,3 +17,4 @@ C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.Busine
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\HotelProject.BusinessLayer.pdb
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\HotelProject.BusinessLayer.genruntimeconfig.cache
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\ref\HotelProject.BusinessLayer.dll
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\HotelProject.BusinessLayer.sourcelink.json

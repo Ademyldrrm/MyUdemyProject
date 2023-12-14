@@ -258,3 +258,4 @@ C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\HotelProject.DataAccessLayer.dll
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\obj\Debug\net6.0\HotelProjectWebUI.sourcelink.json

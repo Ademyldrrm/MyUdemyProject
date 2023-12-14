@@ -12,3 +12,4 @@ C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.Entity
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.pdb
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.genruntimeconfig.cache
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\ref\HotelProject.EntityLayer.dll
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.sourcelink.json
