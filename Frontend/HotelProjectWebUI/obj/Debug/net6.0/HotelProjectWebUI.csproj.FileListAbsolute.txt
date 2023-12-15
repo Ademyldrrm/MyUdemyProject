@@ -259,3 +259,7 @@ C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\HotelProject.DataAccessLayer.dll
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\HotelProject.DataAccessLayer.pdb
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\obj\Debug\net6.0\HotelProjectWebUI.sourcelink.json
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\obj\Debug\net6.0\HotelProjectWebUI.MvcApplicationPartsAssemblyInfo.cs
