@@ -16,12 +16,24 @@ namespace HotelProject.WepApi.Controllers
             _contactService = contactService;
         }
         [HttpPost]
-        public IActionResult AddBooking(Contact contact)
+        public IActionResult AddContact(Contact contact)
         {
             contact.Date = Convert.ToDateTime(DateTime.Now.ToString());
             _contactService.TInsert(contact);
             return Ok("Ekleme Başarılı Oldu");
 
+        }
+        [HttpGet]
+        public IActionResult ContactInBoxList()
+        {
+            var values = _contactService.TGetList();
+            return Ok(values);
+        }
+        [HttpGet("{id}")]
+        public IActionResult GetSendMessage(int id)
+        {
+            var values = _contactService.TGetById(id);
+            return Ok(values);
         }
     }
 }
