@@ -263,3 +263,7 @@ C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\obj\Debug\net6.0\HotelProjectWebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\MailKit.dll
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\MimeKit.dll
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\AdemYildirim\source\repos\MyUdemyProject\Frontend\HotelProjectWebUI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
