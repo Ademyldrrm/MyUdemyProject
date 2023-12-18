@@ -138,6 +138,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxfU3Vic2NyaWJlUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/AdemYildirim/source/repos/MyUdemyProject/Frontend/HotelProjectWebUI/Views/ErrorPage/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/AdemYildirim/source/repos/MyUdemyProject/Frontend/HotelProjectWebUI/Views/Guest/AddGuest.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcQWRkR3Vlc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
