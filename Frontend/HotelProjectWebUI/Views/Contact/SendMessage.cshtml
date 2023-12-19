@@ -35,25 +35,31 @@
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="text" class="form-control" id="name" placeholder="Adınız Soyadınız" asp-for="Name">
-                                    <label for="name">Your Name</label>
+                                    <label for="name">Adınız Soyadınız</label>
                                 </div>
+
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="email" class="form-control" id="email" placeholder="Mail Adresiniz" asp-for="Mail">
-                                    <label for="email">Your Email</label>
+                                    <label for="email">Mail Adresiniz</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="subject" placeholder="Konu" asp-for="Subject">
-                                    <label for="subject">Subject</label>
+                                   @Html.DropDownListFor(x=>x.MessageCategoryID,(List<SelectListItem>)ViewBag.v,new{@class="form-control"})
+                                    <label for="subject">Konuyu Seçiniz</label>
+                                </div>
+                                <br />
+                                <div class="form-floating">
+                                    <input type="text" class="form-control" id="subject" placeholder="Konu Başlığı" asp-for="Subject">
+                                    <label for="subject">Konu Başlığını Yazınız</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
                                     <textarea class="form-control" placeholder="Mesajınızı buraya yazınız" id="message" style="height: 150px" asp-for="Message"></textarea>
-                                    <label for="message">Message</label>
+                                    <label for="message">Mesajınız</label>
                                 </div>
                             </div>
                             <div class="col-12">
