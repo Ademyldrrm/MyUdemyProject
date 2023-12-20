@@ -43,6 +43,12 @@ builder.Services.AddScoped<ISendMessageServcie, SendMessageManager>();
 builder.Services.AddScoped<IMessageCategoryDal, EfMesageCategoryDal>();
 builder.Services.AddScoped<IMessageCategoryService, MessageCategoryManager>();
 
+builder.Services.AddScoped<IWorkLocationDal, EfWorkLocatinDal>();
+builder.Services.AddScoped<IWrokLocationService, WorkLocationManager>();
+
+builder.Services.AddScoped<IAppUserDal, EfAppUserDal>();
+builder.Services.AddScoped<IAppUserService, AppUserManager>();
+
 
 builder.Services.AddAutoMapper(typeof(Program));
 
@@ -53,6 +59,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddControllers().AddNewtonsoftJson(opitons =>
+  opitons.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore); //Stackowerflow
 
 var app = builder.Build();
 
