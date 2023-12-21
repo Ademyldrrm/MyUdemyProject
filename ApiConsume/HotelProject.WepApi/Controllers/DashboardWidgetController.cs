@@ -1,4 +1,5 @@
 ﻿using HotelProject.BusinessLayer.Abstract;
+using HotelProject.DataAccessLayer.Migrations;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -42,7 +43,9 @@ namespace HotelProject.WepApi.Controllers
         public IActionResult RoomCount()
         {
             var value = _roomService.TRoomCount();
+
             return Ok(value);
+
         }
     }
 }
