@@ -47,5 +47,10 @@ namespace HotelProject.BusinessLayer.Concrete
         {
             return _appUserDal.UserListWithWorkLocation();
         }
+
+        public List<AppUser> TUserListWithWorkLocations()
+        {
+            return _appUserDal.UserListWithWorkLocations();
+        }
     }
 }
