@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotelProject.WepApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1a44541e3c41d52715be6cf29634639fc73b054")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95fd942ab3c3966d640c3a5aecc820190d9dfdfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotelProject.WepApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotelProject.WepApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

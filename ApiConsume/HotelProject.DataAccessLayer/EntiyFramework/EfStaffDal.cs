@@ -15,5 +15,12 @@ namespace HotelProject.DataAccessLayer.EntiyFramework
 		public EfStaffDal(Context context) : base(context)
 		{
 		}
-	}
+
+        public int GetStaffCount()
+        {
+           using var context=new Context();
+            var value = context.Staff.Count();
+            return value;
+        }
+    }
 }

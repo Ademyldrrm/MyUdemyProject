@@ -23,6 +23,11 @@ namespace HotelProject.BusinessLayer.Concrete
             throw new NotImplementedException();
         }
 
+        public int TGEtAppUserCount()
+        {
+          return _appUserDal.GEtAppUserCount();
+        }
+
         public AppUser TGetById(int id)
         {
             throw new NotImplementedException();
