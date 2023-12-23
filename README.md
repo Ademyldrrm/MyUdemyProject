@@ -1,4 +1,17 @@
 # Asp.Net Core Çok Katmanlı API ve MVC Projesi
+![Ekran görüntüsü 2023-12-23 171025](https://github.com/Ademyldrrm/MyUdemyProject/assets/92265631/9df2b977-87e7-4c25-b525-93e82e12697d)
+![Ekran görüntüsü 2023-12-23 171001](https://github.com/Ademyldrrm/MyUdemyProject/assets/92265631/9cf723d6-0e57-4d76-9369-8256509a77f5)
+![Ekran görüntüsü 2023-12-23 170635](https://github.com/Ademyldrrm/MyUdemyProject/assets/92265631/b6a04f1c-9885-47b2-887c-6e9a9e88a83f)
+![Ekran görüntüsü 2023-12-23 170618](https://github.com/Ademyldrrm/MyUdemyProject/assets/92265631/9dacb140-f91a-4a8f-bf69-333b81032f93)
+![Ekran görüntüsü 2023-12-23 170421](https://github.com/Ademyldrrm/MyUdemyProject/assets/92265631/ede191a2-ce0c-49e3-9645-c4fbd9f75f77)
+![Ekran görüntüsü 2023-12-23 165428](https://github.com/Ademyldrrm/MyUdemyProject/assets/92265631/a5eedb3e-e82a-4276-b905-6a38b5af4153)
+![Ekran görüntüsü 2023-12-22 121031](https://github.com/Ademyldrrm/MyUdemyProject/assets/92265631/0709404e-48c3-407f-8626-20d85cfd8016)
+![Ekran görüntüsü 2023-12-2![Ekran görüntüsü 2023-12-23 165208](https://github.com/Ademyldrrm/MyUdemyProject/assets/92265631/812aaf06-d243-46c6-be9d-17872cdd9dbd)
+3 170542](https://github.com/Ademyldrrm/MyUdemyProject/assets/92265631/b033b2c9-dafd-4090-86c1-0f68299ba482)
+
+
+
+
 
 Bu proje, Asp.Net Core kullanarak çok katmanlı bir mimari yapısında geliştirilmiş bir API ve MVC uygulamasını içermektedir. Proje, aşağıdaki ana başlıkları kapsamaktadır:
 
