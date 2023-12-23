@@ -36,7 +36,7 @@ Bu proje, Asp.Net Core kullanarak çok katmanlı bir mimari yapısında gelişti
 Projeyi yerel makinenizde çalıştırabilmek için aşağıdaki gereksinimlere ihtiyacınız vardır:
 
 - Visual Studio veya Visual Studio Code (IDE)
-- .NET 5.0 SDK
+- .NET 6.0 SDK
 - MSSQL veritabanı sunucusu
 - Postman (API testleri için)
 - Rapid API üyeliği (Dış kaynaklı API'ları tüketmek için)
