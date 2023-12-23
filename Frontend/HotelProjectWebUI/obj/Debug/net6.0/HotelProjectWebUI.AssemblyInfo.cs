@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotelProjectWebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+424ed2f8e94329cc172511269b3b9b038e93002a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6baa412a6c8f5ffb48db0e931449ab39a48a2771")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotelProjectWebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotelProjectWebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
